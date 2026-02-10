@@ -46,6 +46,10 @@ Exemplo que calcula 2¹, 2², 2³, ..., 2¹⁰ printa resultado e mostra grafico
 
 ![Gráfico gerado pelo exemplo acima](images/exemplo.png)
 
+## Demonstração em vídeo
+
+[Vídeo no youtube](https://www.youtube.com/watch?v=LQp3dqet_JI)
+
 ## Análise de complexidade
 ### Complexidade Temporal
 Vamos rodar o seguinte experimento para ver a quantidade de multiplicacoes feitas quando realizamos a potenciacao de 2¹ até 2²⁵⁰ utilizando o algoritmo square and multiply
